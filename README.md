@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate **Flutter Developer** with experience in 
 
 ## 💻 Tech Stack
 - **Languages:** Dart, Python-beginner
-- **Frameworks & Tools:** Flutter, Firebase, DevTools
+- **Frameworks & Tools:** Flutter, Firebase, DevTools, JSON
 - **Version Control:** Git, GitHub
 - **Other Skills:** API Integration, Responsive UI, State Management (Provider, Getx).
 
@@ -25,8 +25,8 @@ A **Tea store app** powered by **Getx**.
 
 ## 📫 Contact Me
 - **Email:** [dilshadalam014@gmail.com](mailto:dilshad.alam@example.com)
-- **LinkedIn:** [[@dilshad-alam](https://www.linkedin.com/in/dilshad-alam3748/)]
-- **GitHub:** [github.com/DilshadAlam]([https://github.com/Dilshad-mohammad])
+- **LinkedIn:** [@dilshad-alam](https://www.linkedin.com/in/dilshad-alam3748/)
+- **GitHub:** [@DilshadAlam](https://github.com/Dilshad-mohammad])
 
 ---
 💡 _"Passionate about crafting seamless mobile experiences."_
