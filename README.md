@@ -4,16 +4,14 @@ Welcome to my GitHub! I'm a passionate **Flutter Developer** with experience in 
 
 ## 📌 About Me
 - 🎓 **B.Tech in Information Technology** from Buddha Institute of Technology.
-- 💼 Completed **Flutter Internship** at S O Infotech Pvt. Ltd.
-- 🎨 Built an **interactive UI similar to Probo** for a **Cricbuzz-like app**.
+- 💼 Completed **Flutter Internship** at SO Infotech Pvt. Ltd.
 - 📱 Developed a **portfolio app using Flutter**.
-- 🔥 Upgraded to the **Firebase Blaze plan** for advanced cloud features.
 
 ## 💻 Tech Stack
-- **Languages:** Dart, Java
+- **Languages:** Dart, Python-beginner
 - **Frameworks & Tools:** Flutter, Firebase, DevTools
 - **Version Control:** Git, GitHub
-- **Other Skills:** API Integration, Responsive UI, State Management (Provider, Riverpod), Charts & Graphs
+- **Other Skills:** API Integration, Responsive UI, State Management (Provider, Getx).
 
 ## 📂 Projects
 ### 1️⃣ Devault (Final Year Project)
@@ -22,16 +20,13 @@ A **secure cloud storage app** built with Flutter and Firebase.
 - ☁️ **Cloud Storage:** Store & manage files efficiently
 - 🌙 **Dark Mode:** User-friendly UI with theme switching
 
-### 2️⃣ Cricbuzz Clone App
-A **real-time cricket score app** powered by **CricAPI**.
-- 📊 Live scores & match updates
-- 📉 Interactive trading trends with graphs
-- 🌓 Light & Dark mode support
+### 2️⃣ Headlee Green Tea UI
+A **Tea store app** powered by **Getx**.
 
 ## 📫 Contact Me
-- **Email:** [dilshad.alam@example.com](mailto:dilshad.alam@example.com)
-- **LinkedIn:** [linkedin.com/in/dilshad-alam](https://linkedin.com/in/dilshad-alam)
-- **GitHub:** [github.com/DilshadAlam](https://github.com/DilshadAlam)
+- **Email:** [dilshadalam014@gmail.com](mailto:dilshad.alam@example.com)
+- **LinkedIn:** [[@dilshad-alam](https://www.linkedin.com/in/dilshad-alam3748/)]
+- **GitHub:** [github.com/DilshadAlam]([https://github.com/Dilshad-mohammad])
 
 ---
 💡 _"Passionate about crafting seamless mobile experiences."_
