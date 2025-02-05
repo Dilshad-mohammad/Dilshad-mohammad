@@ -26,7 +26,7 @@ A **Tea store app** powered by **Getx**.
 ## 📫 Contact Me
 - **Email:** [dilshadalam014@gmail.com](mailto:dilshad.alam@example.com)
 - **LinkedIn:** [@dilshad-alam](https://www.linkedin.com/in/dilshad-alam3748/)
-- **GitHub:** [@DilshadAlam](https://github.com/Dilshad-mohammad])
+- **GitHub:** [@Dilshad-alam](https://github.com/Dilshad-mohammad)
 
 ---
 💡 _"Passionate about crafting seamless mobile experiences."_
