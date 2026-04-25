@@ -1,36 +1,34 @@
-# 🚀 Dilshad Alam - Full-Stack Flutter Developer
+# 🚀 Dilshad Alam - Flutter & Full-Stack Developer
 
-Welcome to my GitHub! I'm a passionate **Fullstack Application Developer** with experience in creating dynamic and interactive mobile applications. My focus is on building high-performance, scalable apps with clean UI/UX and backend development.
+Welcome to my GitHub! I'm a **FullStack-Flutter Developer** with hands-on experience building scalable and user-focused mobile applications. I work across both **frontend and backend** to deliver complete, production-ready solutions.
 
 ## 📌 About Me
-- 🎓 **B.Tech in Information Technology** from Buddha Institute of Technology.
-- 💼 Completed **Flutter Internship** at SO Infotech Pvt. Ltd.
-- 📱 Developed a **portfolio app using Flutter**.
+
+* 🎓 **B.Tech in Information Technology** from Buddha Institute of Technology (2025)
+* 💼 Worked as a **Flutter Developer at Innovative Modern Engineers**
+* 📱 Built real-world apps like **MedCab Consumer** and **Naukari Alert**
+* 🚀 Focused on delivering **end-to-end application solutions**
 
 ## 💻 Tech Stack
-- **Languages:** Dart, Python-beginner
-- **Frameworks & Tools:** Flutter, Firebase, DevTools, JSON
-- **Version Control:** Git, GitHub
-- **Other Skills:** API Integration, Responsive UI, State Management (Provider, Getx).
 
-## 📂 Projects
-### 1️⃣ Devault (Final Year Project)
-A **secure cloud storage app** built with Flutter and Firebase.
-- 🔐 **Authentication:** Secure login with Firebase Auth
-- ☁️ **Cloud Storage:** Store & manage files efficiently
-- 🌙 **Dark Mode:** User-friendly UI with theme switching
+* **Languages:** Dart, JavaScript
+* **Frontend:** Flutter (GetX, Provider), Responsive UI
+* **Backend:** Node.js, Express.js, MongoDB
+* **Tools & Services:** Firebase, REST APIs, Postman, DevTools
+* **Version Control:** Git
 
-### 2️⃣ Headlee Green Tea UI
-A **Tea store app** powered by **Getx**.
+## 🚀 What I’m Focused On
+
+* Building scalable mobile applications with clean architecture
+* Developing robust backend systems and APIs
+* Improving performance, UI/UX, and real-world problem solving
 
 ## 📫 Contact Me
-- **Email:** [dilshadalam014@gmail.com](mailto:dilshad.alam@example.com)
-- **LinkedIn:** [@dilshad-alam](https://www.linkedin.com/in/dilshad-alam3748/)
-- **GitHub:** [@Dilshad-alam](https://github.com/Dilshad-mohammad)
+
+* **Email:** [dilshadalam.dev@gmail.com](mailto:dilshadalam.dev@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/dilshad-alam3748/](https://www.linkedin.com/in/dilshad-alam3748/)
+* **Portfolio:** [https://portfolio-six-tawny-60.vercel.app/](https://portfolio-six-tawny-60.vercel.app/)
 
 ---
-💡 _"Passionate about crafting seamless mobile experiences."_
-<!---
-Dilshad-mohammad/Dilshad-mohammad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+💡 *"Focused on building complete, scalable applications with strong frontend and backend integration."*
