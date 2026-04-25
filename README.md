@@ -1,6 +1,6 @@
-# 🚀 Dilshad Alam - Flutter Developer
+# 🚀 Dilshad Alam - Full-Stack Flutter Developer
 
-Welcome to my GitHub! I'm a passionate **Flutter Developer** with experience in creating dynamic and interactive mobile applications. My focus is on building high-performance, scalable apps with clean UI/UX.
+Welcome to my GitHub! I'm a passionate **Fullstack Application Developer** with experience in creating dynamic and interactive mobile applications. My focus is on building high-performance, scalable apps with clean UI/UX and backend development.
 
 ## 📌 About Me
 - 🎓 **B.Tech in Information Technology** from Buddha Institute of Technology.
